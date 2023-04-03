@@ -3,7 +3,7 @@
     [
       { "agent-name":"bot_rat",
         "url":"https://temp.sh/kugJS/d.exe",
-        "size":115
+        "size":6942308
         }, 
        {  "agent-name":"rs_rat",
           "url":"https://temp.sh/kugJS/d.exe",
