@@ -1,1 +1,1 @@
-{"links":"https://temp.sh/kugJS/d.exe"}
+{"links":["https://temp.sh/kugJS/d.exe"]}
